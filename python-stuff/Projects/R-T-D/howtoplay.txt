@@ -1,0 +1,10 @@
+                                                    HOW TO PLAY
+====================================================================================================================
+|1. Pick a number on the dice from 1 to 6                                                                           |
+|2. The dice will be rolled, if the dice lands on the number you chose you lose                                     |
+|3. If the dice lands on any other number you win                                                                   |
+|4. There is a chance that you will be prompted to do a challenge, which is completely optional to accept           |
+|5. If you accept it then the dice will be turn into a coin, you will have to choose between heads and tails        |
+|6. If the coin lands on the side you chose, you lose                                                               |
+|7. If the coin lands on the opposite side of what you chose, you win                                               |
+=====================================================================================================================

@@ -1,0 +1,8 @@
+body {background-color: black;}
+h1{color:red;}
+p, h1 {
+    color:red; 
+}
+.center{
+    text-align: center;
+}
