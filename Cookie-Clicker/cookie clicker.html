@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en_US">
+    <head>
+        <meta name="description", content="Cookie clicker game">
+        <meta name="keywords" content="HTML, Game, CSS, Javascript">
+        <meta name="veiwport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image x-con" href="src/Images/cookiefavicon.png"> 
+        <link rel="stylesheet" href="src/stylesheets/stylesheet.css">
+        <title>Cookie clicker</title> 
+        <noscript>Sorry! Javascript isn't enabled in your browser. This website wont function without it :[</noscript>
+        <script src="src/scripts/script.js" defer></script>
+    </head>
+        <body>
+            <h1 class="centertxt">Cookie Clicker</h1> 
+            <table>
+                <th>Cookies made:</th>
+                <td id="cookiesmade">0</td>
+                <button id="button" onclick="makecookie()">Make a cookie</button>
+                <th>Multiplier:</th>
+                <td id="multiplier">1</td>
+                <button id="upbtn" onclick="m_upgrade()" disabled>Upgrade multiplier</button>
+                <th>Next upgrade:</th>
+                <td id="nextupg">10</td>
+            </table>
+        </body>
+</html>
